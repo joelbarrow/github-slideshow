@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to the joel barrow slide!"
 ---
-Some additional text
+Making some awesome changes for Lab 3
 Use the left arrow to go back!
