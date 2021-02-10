@@ -2,6 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Replaced line 5 with something even better
-Added error checking
+This is my new awesome slide
 Use the left arrow to go back!
